@@ -1,0 +1,2 @@
+# Lung Cancer Prediction using Machine Learning
+Lung cancer is one of the leading causes of death globally. Early diagnosis through predictive models can improve patient outcomes significantly. This project develops a machine learning pipeline to predict lung cancer risk based on patient attributes. The workflow involves data preprocessing, feature engineering, model building, and performance evaluation.
